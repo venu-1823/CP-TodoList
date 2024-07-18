@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #ffc2a0;
+}
+
+.sub {
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
+h1 {
+  color: #ff8542;
+}
+ul {
+  display: flex;
+  list-style: none;
+  flex-direction: column;
+}
